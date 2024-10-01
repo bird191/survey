@@ -1,0 +1,28 @@
+body{
+  width: 500px; 
+  margin: 0 auto;
+  font-family:"Roboto", sans-serif ;
+  background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20200729/pngtree-colorful-flow-background-with-fluid-form-image_372440.jpg);
+  background-repeat: no-repeat;
+  background-size: 220%;
+
+}
+h1,p{
+  text-align: center;
+}
+form{
+  background-color: rgba(0, 0, 255,50%);
+}
+#Name,
+#Email,
+#Age,
+select,
+textarea,
+button
+{
+  width: 98%;
+}
+button{
+  background-color: burlywood;
+  color: white;
+}
